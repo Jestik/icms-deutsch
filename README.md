@@ -1,7 +1,7 @@
 Deutsche Lokalisierung für <a href="https://github.com/instantsoft/icms2">InstantCMS 2</a>
 <p>
   <a href="https://instantcms.ru">
-    <img alt="InstantCMS" src="https://instantcms.ru/templates/icms/images/logo.svg" />
+    <img alt="InstantCMS" src="https://github.com/Jestik/icms-deutsch/blob/main/icon.png" />
   </a>
 </p>
 
